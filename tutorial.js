@@ -1,7 +1,3 @@
-//var firstName='RUTH';
-//var height='5ft';
-//var country='NIGERIA';
-
 let firstName = "Ruth";
 
 let height = "5ft";
