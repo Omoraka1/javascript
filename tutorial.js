@@ -16,8 +16,8 @@ let country = "Nigeria";
 // console.log(height)
 // console.log(country)
 
-document.writeln("My Name is :"+firstName);
-document.write("<br>");
-document.write("My Height :"+height);
-document.write("<br>");
-document.writeln("My country is :"+country);
+document.write("My Name is : "+firstName);
+document.write("</br>");
+document.write("My Height : "+height);
+document.write("</br>");
+document.write("My country is : "+country);
